@@ -1,0 +1,22 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# Snapshots & Pickle
+*.pkl
+*.parquet
+*.csv
+
+# Logs & temp
+*.log
+logs/
+*.tmp
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
